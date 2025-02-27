@@ -16,7 +16,7 @@ npm install
 
 ## Usage
 
-Add rawTransactions in `scripts.js`
+Add rawTransactions in `scripts.js`   
 Add the address you want to potentially find within the rawTransactions list.
 
 Run it:

@@ -10,8 +10,12 @@ node v20.9.0
 
 ## Install:
 
-```npm install```
+```
+npm install
+```
 
 ## Usage
 
-```node scripts.js```
+```
+node scripts.js
+```
